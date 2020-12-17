@@ -1,0 +1,5 @@
+OBJECT_BASE 1807253.btg
+OBJECT SPAR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -69.338742 -11.684002 273.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -69.327366 -11.682110 281.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -69.333169 -11.682522 274.7 0.00
